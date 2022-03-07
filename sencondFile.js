@@ -1,0 +1,1 @@
+This is a sample of another file inside a second branch
